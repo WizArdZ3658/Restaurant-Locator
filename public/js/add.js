@@ -1,5 +1,6 @@
 const restaurantForm = document.getElementById('restaurant-form');
 const restaurantId = document.getElementById('restaurant-id');
+const restaurantName = document.getElementById('restaurant-name');
 const restaurantAddress = document.getElementById('restaurant-address');
 
 // Send POST to API to add restaurant
@@ -12,6 +13,7 @@ async function addrestaurant(e) {
 
   const sendBody = {
     restaurantId: restaurantId.value,
+    name: restaurantName.value,
     address: restaurantAddress.value
   };
 

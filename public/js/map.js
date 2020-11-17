@@ -24,7 +24,7 @@ async function getRestaurants() {
         ]
       },
       properties: {
-        restaurantId: restaurant.restaurantId,
+        name: restaurant.name,
         icon: 'restaurant'
       }
     };
@@ -49,7 +49,7 @@ function loadMap(restaurants) {
       layout: {
         'icon-image': '{icon}-15',
         'icon-size': 1.5,
-        'text-field': '{restaurantId}',
+        'text-field': '{name}',
         'text-font': ['Open Sans Semibold', 'Arial Unicode MS Bold'],
         'text-offset': [0, 0.9],
         'text-anchor': 'top'

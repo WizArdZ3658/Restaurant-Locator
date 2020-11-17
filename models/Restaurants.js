@@ -13,6 +13,10 @@ const RestaurantSchema = new mongoose.Schema({
     type: String,
     required: [true, 'Please add an address']
   },
+  name: {
+    type: String,
+    required: [true, 'Please add restaurant name']
+  },
   location: {
     type: {
       type: String,
