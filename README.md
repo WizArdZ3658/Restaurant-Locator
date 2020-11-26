@@ -16,7 +16,7 @@ HTML, CSS, SQL, Javascript, Git
 
 ##### Frameworks, Libraries and Tools:-
 
-Node.js, Express.js, MapBox, Geocoder, Bootstrap, MongoDB-Atlas, Mongoose, GeoJSON, JSON, Nodemon(for utility in development), CORS, Dotenv
+Node.js, Express.js, MapBox, Geocoder, Bootstrap, MongoDB-Atlas, Mongoose, GeoJSON, JSON, Nodemon(for utility in development), CORS, Dotenv, VSCode
 
 ##### Databases:-
 
@@ -25,3 +25,5 @@ MongoDB
 ##### Environment:-
 
 Windows(my PC)
+
+## Detailed Description
