@@ -2,12 +2,6 @@
 
 A web application where users can save their favourite restaurants in this app and view them later. This site also features dark mode :).
 
-## New features to be added :-
-
-- Authentication for users and admin control.
-- Google Maps integration.
-- Use a better Geocoder.
-
 ## Technology Stack
 
 ##### Languages :-
