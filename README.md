@@ -10,7 +10,7 @@ HTML, CSS, SQL, Javascript
 
 ##### Frameworks, Libraries and Tools:-
 
-Node.js, Express.js, MapBox, Geocoder, Bootstrap, MongoDB-Atlas, Mongoose, GeoJSON, JSON, Nodemon(for utility in development), CORS, Dotenv, VSCode, Git
+Node.js, Express.js, MapBox, Geocoder, Bootstrap, MongoDB-Atlas, Mongoose, GeoJSON, Nodemon(for utility in development), CORS, Dotenv, VSCode, Git
 
 ##### Databases:-
 
