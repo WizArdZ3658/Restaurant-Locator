@@ -6,11 +6,11 @@ A web application where users can save their favourite restaurants in this app a
 
 ##### Languages :-
 
-HTML, CSS, SQL, Javascript
+HTML, CSS, Javascript
 
 ##### Frameworks, Libraries and Tools:-
 
-Node.js, Express.js, MapBox, Geocoder, Bootstrap, MongoDB-Atlas, Mongoose, GeoJSON, Nodemon(for utility in development), CORS, Dotenv, VSCode, Git
+Node.js, Express.js, MapBox, Geocoder, Bootstrap, MongoDB-Atlas, Mongoose, Nodemon(for development), CORS, Dotenv, VSCode, Git
 
 ##### Databases:-
 
@@ -19,5 +19,3 @@ MongoDB
 ##### Environment:-
 
 Windows(my PC)
-
-## Detailed Description
